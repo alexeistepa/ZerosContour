@@ -13,7 +13,7 @@ Stepanenko A. "Spectral inclusion and pollution for a class of dissipative pertu
 
 to create the following figure:
 
-<img src="https://github.com/alexeistepa/ZerosContour/blob/main/fig2_dpi300.png?raw=true" width="400" height="400">
+<img src="https://github.com/alexeistepa/ZerosContour/blob/main/fig2_dpi300.png?raw=true" width="650" height="650">
 
 Idea of algorithm
 -----------------

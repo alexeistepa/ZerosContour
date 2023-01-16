@@ -5,7 +5,7 @@ A Python implementation of an algorithm for finding all zeros of a homolmorphic 
 Michael Dellnitz, Oliver Schütze, and Qinghua Zheng. "Locating all the zeros of an analytic function in one complex variable." *Journal of Computational and Applied mathematics* 138.2:325-333 (2002).
 
 - The notebook `Test.ipynb` tests the code on examples of functions with known zeros.
-- The notebook `SchrodEigs.ipynb` applies the code to find zeros of non-self-adjoint Schr&ouml;dinger operators.
+- The notebook `SchrodEigs.ipynb` applies the code to find zeros of certain non-self-adjoint Schr&ouml;dinger operators.
 
 This code was used in my paper 
 

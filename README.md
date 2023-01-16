@@ -2,14 +2,14 @@
 
 A Python implementation of an algorithm for finding all zeros of a homolmorphic function in a given region, from the paper:
 
-Dellnitz, Michael, Oliver Schütze, and Qinghua Zheng. "Locating all the zeros of an analytic function in one complex variable." *Journal of Computational and Applied mathematics* 138.2:325-333 (2002).
+Michael Dellnitz, Oliver Schütze, and Qinghua Zheng. "Locating all the zeros of an analytic function in one complex variable." *Journal of Computational and Applied mathematics* 138.2:325-333 (2002).
 
 - The notebook `Test.ipynb` tests the code on examples of functions with known zeros.
 - The notebook `SchrodEigs.ipynb` applies the code to find zeros of non-self-adjoint Schr&ouml;dinger operators.
 
 This code was used in my paper 
 
-Stepanenko A. "Spectral inclusion and pollution for a class of dissipative perturbations". *Journal of Mathematical Physics* 62(1):013501 (2021)
+Alexei Stepanenko. "Spectral inclusion and pollution for a class of dissipative perturbations". *Journal of Mathematical Physics* 62(1):013501 (2021)
 
 to create the following figure:
 

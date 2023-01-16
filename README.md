@@ -1,6 +1,6 @@
 # ZerosContour
 
-A Python implementation of an algorithm for finding all zeros of a homolmorphic function in a given region, from the paper:
+A Python implementation of an algorithm for finding all zeros of a homomorphic function in a given region, from the paper:
 
 Michael Dellnitz, Oliver Schütze, and Qinghua Zheng. "Locating all the zeros of an analytic function in one complex variable." *Journal of Computational and Applied mathematics* 138.2:325-333 (2002).
 
